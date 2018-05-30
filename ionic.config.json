@@ -1,0 +1,8 @@
+{
+  "name": "barbogos",
+  "app_id": "79216c1f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
